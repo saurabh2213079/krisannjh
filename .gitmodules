@@ -1,0 +1,3 @@
+[submodule "my-fullstack-app"]
+	path = my-fullstack-app
+	url = https://github.com/123Sangram/my-fullstack-app.git
